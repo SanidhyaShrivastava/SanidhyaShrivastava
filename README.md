@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/sanidhya-shrivastava/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u"  />
 </a>
 <a href="mailto:it.sanidhya@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
+<p align="center">
+  I'm a 1st year student pursuing Bachelor's in Computer Science 🎓 from MIT ADT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.✨. 
+</p>
