@@ -18,9 +18,43 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u"  />
 </a>
 <a href="mailto:it.sanidhya@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
+<br>
+
+
+</p>
 <p align="center">
   I'm a 1st year student pursuing Bachelor's in Computer Science 🎓 from MIT ADT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.✨. 
 </p>
+
+
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ </p>
+ 
+ 
+ <h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=SanidhyaShrivastava&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaShrivastava&hide=html,css,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SanidhyaShrivastava&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=SanidhyaShrivastava&theme=redical">
+</p> 
