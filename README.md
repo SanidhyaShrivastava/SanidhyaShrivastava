@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=Python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  </p>
