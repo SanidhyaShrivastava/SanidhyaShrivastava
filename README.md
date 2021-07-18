@@ -58,4 +58,3 @@ Here are some ideas to get you started:
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=SanidhyaShrivastava&theme=redical">
 </p> 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
