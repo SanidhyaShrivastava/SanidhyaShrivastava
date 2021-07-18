@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <a href="mailto:it.sanidhya@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+<a href="https://www.hackerrank.com/it_sanidhya">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png"  />
+</a>
 
 <br>
 
