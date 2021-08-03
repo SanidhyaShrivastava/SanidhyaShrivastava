@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 </p>
 <p align="center">
-  1st-year student pursuing Bachelor's in Computer Science 🎓 from MIT ADT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡. Certified in AWS cloud and Python Programming. 
+  2nd-year student pursuing Bachelor's in Computer Science 🎓 from MIT ADT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡. Certified in AWS cloud and Python Programming. 
 </p>
 
 
