@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=SanidhyaShrivastava&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaShrivastava&hide=html,css,shaderlab,kotlin,hlsl&theme=onedark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaShrivastava&theme=onedark">
 </p>
+
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SanidhyaShrivastava&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
