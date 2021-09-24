@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=Python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
  </p>
  
  
