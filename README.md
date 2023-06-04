@@ -20,16 +20,14 @@ Here are some ideas to get you started:
 <a href="mailto:it.sanidhya@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="https://www.hackerrank.com/it_sanidhya">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png"  />
-</a>
+
 
 <br>
 
 
 </p>
 <p align="center">
-  3rd-year student pursuing Bachelor's in Computer Science 🎓 from MIT ADT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡. Oracle Java certified with certification in AWS cloud and Python Programming. 
+  As a 2X AWS Cloud and Oracle Java certified Software Development Engineer, I am skilled in building innovative and mission-critical system software applications and tools. In addition to my development expertise, I also have a good understanding of DevOps, Front-End development, and AWS. I know programming languages such as C, C++, and Python, as well as cloud computing and blockchain technology. Additionally, I am well-versed in Linux and Github, making me a well-rounded developer. With my diverse skillset, I can create robust and efficient software solutions for my clients, no matter their specific needs. And I can deliver the results you need with excellent communication skills, a fast learning curve, and the ability to adapt quickly to a fast-paced development environment. Let's work together to take your business to the next level! 
 </p>
 
 
