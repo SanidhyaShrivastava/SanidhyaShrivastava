@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/sanidhya-shrivastava/">
-  <img align="left" width="24px" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u"  />
+  <img align="left" width="24px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"  />
 </a>
 <a href="mailto:it.sanidhya@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
